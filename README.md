@@ -1,5 +1,5 @@
 # CS-255_DriverPass-Project
-As a systems analyst, help create the DriverPass system which provides students with access to online practice exams and on-the-road training to better prepare them for driving tests.
+Demonstrates my ability to take the role of a systems analyst and create system design documents and business requirement documents for a hypothetical company, DriverPass. The DriverPass system provides students with access to online practice exams and on-the-road training to better prepare them for driving tests.
 
 ## Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 Our small consulting company has entered a contract with the DriverPass project team to create their new system. This system will provide eligible U.S. citizens with a learning hub for preparing for the drivers license exam. The system will offer students online practice exams, the ability to schedule appointments with experienced trainers in a DriverPass car, and much more.
